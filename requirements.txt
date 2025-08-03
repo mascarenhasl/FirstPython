@@ -1,0 +1,7 @@
+#Recreating the Environment: When another developer (or you on a different machine) clones the repository, 
+#they can create their own virtual environment and install the dependencies listed in requirements.txt
+
+# pip install -r requirements.txt # Install dependencies
+
+python3=3.13.0
+
